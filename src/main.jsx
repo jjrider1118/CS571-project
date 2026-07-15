@@ -7,6 +7,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 createRoot(document.getElementById('root')).render(
 <div> 
     <h1> TODO </h1>
-    <Button> Create Website? </Button>
+    <Button onClick={() => alert("Website will be created any minute now...")}> Create Website? </Button>
 </div>
 )
