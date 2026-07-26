@@ -1,0 +1,74 @@
+﻿{
+    "results":  [
+                    {
+                        "symbol":  "lama1",
+                        "curie":  "ZFIN:ZDB-GENE-060118-1",
+                        "nameKey":  "lama1 (Dre)",
+                        "name":  "lama1",
+                        "category":  "gene_search_result"
+                    },
+                    {
+                        "symbol":  "Lama1",
+                        "curie":  "RGD:1307207",
+                        "nameKey":  "Lama1 (Rno)",
+                        "name":  "Lama1",
+                        "category":  "gene_search_result"
+                    },
+                    {
+                        "symbol":  "lama1",
+                        "curie":  "Xenbase:XB-GENE-968308",
+                        "nameKey":  "lama1 (Xtr)",
+                        "name":  "lama1",
+                        "category":  "gene_search_result"
+                    },
+                    {
+                        "symbol":  "Lama1",
+                        "curie":  "MGI:99892",
+                        "nameKey":  "Lama1 (Mmu)",
+                        "name":  "Lama1",
+                        "category":  "gene_search_result"
+                    },
+                    {
+                        "symbol":  "LAMA1",
+                        "curie":  "HGNC:6481",
+                        "nameKey":  "LAMA1 (Hsa)",
+                        "name":  "LAMA1",
+                        "category":  "gene_search_result"
+                    },
+                    {
+                        "symbol":  "lama1.L",
+                        "curie":  "Xenbase:XB-GENE-17330574",
+                        "nameKey":  "lama1.L (Xla)",
+                        "name":  "lama1.L",
+                        "category":  "gene_search_result"
+                    },
+                    {
+                        "symbol":  "Lama1\u003csup\u003etm2e(EUCOMM)Hmgu\u003c/sup\u003e",
+                        "nameKey":  "Lama1\u003ctm2e(EUCOMM)Hmgu\u003e (Mmu)",
+                        "name":  "Lama1\u003csup\u003etm2e(EUCOMM)Hmgu\u003c/sup\u003e",
+                        "category":  "allele_search_result",
+                        "primaryKey":  "MGI:4461502"
+                    },
+                    {
+                        "symbol":  "Lama1\u003csup\u003etm1a(EUCOMM)Hmgu\u003c/sup\u003e",
+                        "nameKey":  "Lama1\u003ctm1a(EUCOMM)Hmgu\u003e (Mmu)",
+                        "name":  "Lama1\u003csup\u003etm1a(EUCOMM)Hmgu\u003c/sup\u003e",
+                        "category":  "allele_search_result",
+                        "primaryKey":  "MGI:4436284"
+                    },
+                    {
+                        "symbol":  "Lama1\u003csup\u003eem1Cya\u003c/sup\u003e",
+                        "nameKey":  "Lama1\u003cem1Cya\u003e (Mmu)",
+                        "name":  "Lama1\u003csup\u003eem1Cya\u003c/sup\u003e",
+                        "category":  "allele_search_result",
+                        "primaryKey":  "MGI:7794280"
+                    },
+                    {
+                        "symbol":  "Lama1\u003csup\u003etm1Ekb\u003c/sup\u003e",
+                        "nameKey":  "Lama1\u003ctm1Ekb\u003e (Mmu)",
+                        "name":  "Lama1\u003csup\u003etm1Ekb\u003c/sup\u003e",
+                        "category":  "allele_search_result",
+                        "primaryKey":  "MGI:3530455"
+                    }
+                ]
+}

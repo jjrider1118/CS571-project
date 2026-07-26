@@ -1,0 +1,1472 @@
+﻿{
+    "HGNC:6481":  {
+                      "category":  "gene_summary",
+                      "searchable":  false,
+                      "gene":  {
+                                   "type":  "Gene",
+                                   "primaryExternalId":  "HGNC:6481",
+                                   "dataProvider":  {
+                                                        "type":  "AllianceMember",
+                                                        "abbreviation":  "RGD",
+                                                        "fullName":  "Rat Genome Database"
+                                                    },
+                                   "dataProviderCrossReference":  {
+                                                                      "referencedCurie":  "RGD:1316264",
+                                                                      "displayName":  "RGD:1316264",
+                                                                      "resourceDescriptorPage":  {
+                                                                                                     "name":  "gene",
+                                                                                                     "urlTemplate":  "https://rgd.mcw.edu/rgdweb/report/gene/main.html?id=RGD:[%s]"
+                                                                                                 }
+                                                                  },
+                                   "relatedNotes":  [
+                                                        {
+                                                            "freeText":  "This gene encodes one of the alpha 1 subunits of laminin. The laminins are a family of extracellular matrix glycoproteins that have a heterotrimeric structure consisting of an alpha, beta and gamma chain. These proteins make up a major component of the basement membrane and have been implicated in a wide variety of biological processes including cell adhesion, differentiation, migration, signaling, neurite outgrowth and metastasis. Mutations in this gene may be associated with Poretti-Boltshauser syndrome. [provided by RefSeq, Sep 2014]",
+                                                            "noteType":  {
+                                                                             "name":  "MOD_provided_gene_description"
+                                                                         }
+                                                        },
+                                                        {
+                                                            "freeText":  "Predicted to be an extracellular matrix structural constituent. Predicted to contribute to receptor ligand activity. Predicted to be involved in several processes, including negative regulation of muscle cell apoptotic process; positive regulation of intracellular signal transduction; and positive regulation of skeletal muscle acetylcholine-gated channel clustering. Predicted to act upstream of or within morphogenesis of an epithelium; neuron projection development; and retinal blood vessel morphogenesis. Located in basement membrane; membrane; and obsolete extracellular space. Part of laminin-111 trimer and laminin-121 trimer.",
+                                                            "noteType":  {
+                                                                             "name":  "automated_gene_description"
+                                                                         }
+                                                        }
+                                                    ],
+                                   "taxon":  {
+                                                 "curie":  "NCBITaxon:9606",
+                                                 "name":  "Homo sapiens",
+                                                 "descendantCount":  0,
+                                                 "species":  {
+                                                                 "fullName":  "Homo sapiens",
+                                                                 "abbreviation":  "Hsa",
+                                                                 "displayName":  "HUMAN",
+                                                                 "commonNames":  [
+                                                                                     "human",
+                                                                                     "hsa"
+                                                                                 ],
+                                                                 "dataProvider":  {
+                                                                                      "type":  "AllianceMember",
+                                                                                      "abbreviation":  "RGD",
+                                                                                      "fullName":  "Rat Genome Database"
+                                                                                  },
+                                                                 "assembly_curie":  "GRCh38"
+                                                             }
+                                             },
+                                   "crossReferences":  [
+                                                           {
+                                                               "referencedCurie":  "RGD:1316264",
+                                                               "displayName":  "RGD",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "gene/phenotypes",
+                                                                                              "urlTemplate":  "https://rgd.mcw.edu/rgdweb/report/gene/main.html?id=RGD:[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "ENSEMBL:ENSG00000101680",
+                                                               "displayName":  "ENSEMBL:ENSG00000101680",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "http://www.ensembl.org/id/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "HGNC:6481",
+                                                               "displayName":  "HGNC:6481",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "https://bioregistry.io/hgnc:[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "NCBI_Gene:284217",
+                                                               "displayName":  "NCBI_Gene:284217",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "https://www.ncbi.nlm.nih.gov/gene/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "OMIM:150320",
+                                                               "displayName":  "OMIM:150320",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "https://www.omim.org/MIM:[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "PANTHER:PTHR10574",
+                                                               "displayName":  "PANTHER:PTHR10574",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "http://pantherdb.org/panther/family.do?clsAccession=[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "UniProtKB:L8ECC5",
+                                                               "displayName":  "UniProtKB:L8ECC5",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "UniProtKB:Q6P6D3",
+                                                               "displayName":  "UniProtKB:Q6P6D3",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "UniProtKB:Q7Z5W6",
+                                                               "displayName":  "UniProtKB:Q7Z5W6",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "UniProtKB:L8E9C2",
+                                                               "displayName":  "UniProtKB:L8E9C2",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "NCBI_Gene:284217",
+                                                               "displayName":  "GEO",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "gene/other_expression",
+                                                                                              "urlTemplate":  "https://www.ncbi.nlm.nih.gov/sites/entrez?Db=geoprofiles\u0026DbFrom=gene\u0026Cmd=Link\u0026LinkName=gene_geoprofiles\u0026LinkReadableName=GEO%20Profiles\u0026IdsFromResult=[%s]"
+                                                                                          }
+                                                           }
+                                                       ],
+                                   "geneType":  {
+                                                    "curie":  "SO:0001217",
+                                                    "name":  "protein_coding_gene",
+                                                    "ancestors":  [
+                                                                      {
+                                                                          "SO:0000001":  [
+                                                                                             "is_a",
+                                                                                             "part_of"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000110":  [
+                                                                                             "is_a",
+                                                                                             "part_of"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000704":  [
+                                                                                             "is_a",
+                                                                                             "part_of"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0001411":  [
+                                                                                             "is_a"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000110":  [
+                                                                                             "is_a"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000001":  [
+                                                                                             "is_a"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000704":  [
+                                                                                             "is_a"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0001411":  [
+                                                                                             "is_a",
+                                                                                             "part_of"
+                                                                                         ]
+                                                                      }
+                                                                  ],
+                                                    "descendantCount":  0
+                                                },
+                                   "geneSymbol":  {
+                                                      "formatText":  "LAMA1",
+                                                      "displayText":  "LAMA1"
+                                                  },
+                                   "geneFullName":  {
+                                                        "formatText":  "laminin subunit alpha 1",
+                                                        "displayText":  "laminin subunit alpha 1"
+                                                    },
+                                   "geneSynonyms":  [
+                                                        {
+                                                            "formatText":  "LAMA",
+                                                            "displayText":  "LAMA"
+                                                        },
+                                                        {
+                                                            "formatText":  "laminin subunit alpha-1",
+                                                            "displayText":  "laminin subunit alpha-1"
+                                                        },
+                                                        {
+                                                            "formatText":  "S-LAM alpha",
+                                                            "displayText":  "S-LAM alpha"
+                                                        },
+                                                        {
+                                                            "formatText":  "laminin A chain",
+                                                            "displayText":  "laminin A chain"
+                                                        },
+                                                        {
+                                                            "formatText":  "S-laminin subunit alpha",
+                                                            "displayText":  "S-laminin subunit alpha"
+                                                        },
+                                                        {
+                                                            "formatText":  "laminin-3 subunit alpha",
+                                                            "displayText":  "laminin-3 subunit alpha"
+                                                        },
+                                                        {
+                                                            "formatText":  "S-LAM-alpha",
+                                                            "displayText":  "S-LAM-alpha"
+                                                        },
+                                                        {
+                                                            "formatText":  "laminin, alpha 1",
+                                                            "displayText":  "laminin, alpha 1"
+                                                        },
+                                                        {
+                                                            "formatText":  "PTBHS",
+                                                            "displayText":  "PTBHS"
+                                                        }
+                                                    ],
+                                   "geneSecondaryIds":  [
+                                                            {
+                                                                "secondaryId":  "RGD:1316264"
+                                                            }
+                                                        ],
+                                   "geneGenomicLocationAssociations":  [
+                                                                           {
+                                                                               "start":  6941742,
+                                                                               "end":  7117859,
+                                                                               "geneGenomicLocationAssociationObject":  {
+                                                                                                                            "type":  "AssemblyComponent",
+                                                                                                                            "dataProvider":  {
+                                                                                                                                                 "type":  "AllianceMember",
+                                                                                                                                                 "abbreviation":  "RGD",
+                                                                                                                                                 "fullName":  "Rat Genome Database"
+                                                                                                                                             },
+                                                                                                                            "taxon":  {
+                                                                                                                                          "curie":  "NCBITaxon:9606",
+                                                                                                                                          "name":  "Homo sapiens",
+                                                                                                                                          "descendantCount":  0,
+                                                                                                                                          "species":  {
+                                                                                                                                                          "fullName":  "Homo sapiens",
+                                                                                                                                                          "abbreviation":  "Hsa",
+                                                                                                                                                          "displayName":  "HUMAN",
+                                                                                                                                                          "commonNames":  [
+                                                                                                                                                                              "human",
+                                                                                                                                                                              "hsa"
+                                                                                                                                                                          ],
+                                                                                                                                                          "dataProvider":  {
+                                                                                                                                                                               "type":  "AllianceMember",
+                                                                                                                                                                               "abbreviation":  "RGD",
+                                                                                                                                                                               "fullName":  "Rat Genome Database"
+                                                                                                                                                                           },
+                                                                                                                                                          "assembly_curie":  "GRCh38"
+                                                                                                                                                      }
+                                                                                                                                      },
+                                                                                                                            "name":  "18"
+                                                                                                                        },
+                                                                               "strand":  "-"
+                                                                           }
+                                                                       ],
+                                   "gcrpCrossReference":  {
+                                                              "referencedCurie":  "UniProtKB:P25391",
+                                                              "displayName":  "UniProtKB:P25391",
+                                                              "resourceDescriptorPage":  {
+                                                                                             "name":  "default",
+                                                                                             "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                         }
+                                                          }
+                               }
+                  },
+    "MGI:99892":  {
+                      "category":  "gene_summary",
+                      "searchable":  false,
+                      "gene":  {
+                                   "type":  "Gene",
+                                   "primaryExternalId":  "MGI:99892",
+                                   "dataProvider":  {
+                                                        "type":  "AllianceMember",
+                                                        "abbreviation":  "MGI",
+                                                        "fullName":  "Mouse Genome Informatics"
+                                                    },
+                                   "dataProviderCrossReference":  {
+                                                                      "referencedCurie":  "MGI:99892",
+                                                                      "displayName":  "MGI:99892",
+                                                                      "resourceDescriptorPage":  {
+                                                                                                     "name":  "gene",
+                                                                                                     "urlTemplate":  "http://www.informatics.jax.org/marker/MGI:[%s]"
+                                                                                                 }
+                                                                  },
+                                   "relatedNotes":  [
+                                                        {
+                                                            "freeText":  "Homozygous null mice display embryonic lethality before somite formation with impaired formation of Reichert\u0027s membrane.",
+                                                            "noteType":  {
+                                                                             "name":  "MOD_provided_gene_description"
+                                                                         }
+                                                        },
+                                                        {
+                                                            "freeText":  "Enables glycosphingolipid binding activity and receptor ligand activity. An extracellular matrix structural constituent. Involved in positive regulation of Rac protein signal transduction; positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction; and positive regulation of skeletal muscle acetylcholine-gated channel clustering. Acts upstream of or within several processes, including morphogenesis of an epithelium; neuron projection development; and retinal blood vessel morphogenesis. Located in basement membrane and cell-cell junction. Part of laminin-111 trimer. Is expressed in several structures, including alimentary system; extraembryonic component; eye; genitourinary system; and nervous system. Orthologous to human LAMA1 (laminin subunit alpha 1).",
+                                                            "noteType":  {
+                                                                             "name":  "automated_gene_description"
+                                                                         }
+                                                        }
+                                                    ],
+                                   "taxon":  {
+                                                 "curie":  "NCBITaxon:10090",
+                                                 "name":  "Mus musculus",
+                                                 "descendantCount":  0,
+                                                 "species":  {
+                                                                 "fullName":  "Mus musculus",
+                                                                 "abbreviation":  "Mmu",
+                                                                 "displayName":  "MGI",
+                                                                 "commonNames":  [
+                                                                                     "mouse",
+                                                                                     "mmu"
+                                                                                 ],
+                                                                 "dataProvider":  {
+                                                                                      "type":  "AllianceMember",
+                                                                                      "abbreviation":  "MGI",
+                                                                                      "fullName":  "Mouse Genome Informatics"
+                                                                                  },
+                                                                 "assembly_curie":  "GRCm39"
+                                                             }
+                                             },
+                                   "crossReferences":  [
+                                                           {
+                                                               "referencedCurie":  "MGI:99892",
+                                                               "displayName":  "MGI:99892",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "gene",
+                                                                                              "urlTemplate":  "http://www.informatics.jax.org/marker/MGI:[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "MGI:99892",
+                                                               "displayName":  "MGI:99892",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "gene/references",
+                                                                                              "urlTemplate":  "http://www.informatics.jax.org/reference/marker/MGI:[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "MGI:99892",
+                                                               "displayName":  "MGI:99892",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "gene/expression",
+                                                                                              "urlTemplate":  "http://www.informatics.jax.org/gxd/marker/MGI:[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "MGI:99892",
+                                                               "displayName":  "MGI:99892",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "gene/expression_images",
+                                                                                              "urlTemplate":  "http://www.informatics.jax.org/gxd/marker/MGI:[%s]?tab=imagestab"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "MGI:99892",
+                                                               "displayName":  "MGI:99892",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "gene/phenotypes",
+                                                                                              "urlTemplate":  "http://www.informatics.jax.org/marker/phenotypes/MGI:[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "ENSEMBL:ENSMUSG00000032796",
+                                                               "displayName":  "ENSEMBL:ENSMUSG00000032796",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "http://www.ensembl.org/id/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "NCBI_Gene:16772",
+                                                               "displayName":  "NCBI_Gene:16772",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "https://www.ncbi.nlm.nih.gov/gene/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "UniProtKB:P19137",
+                                                               "displayName":  "UniProtKB:P19137",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "PANTHER:PTHR10574",
+                                                               "displayName":  "PANTHER:PTHR10574",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "default",
+                                                                                              "urlTemplate":  "http://pantherdb.org/panther/family.do?clsAccession=[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "MGI:99892",
+                                                               "displayName":  "MGI:99892",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "gene/phenotypes_impc",
+                                                                                              "urlTemplate":  "https://www.mousephenotype.org/data/genes/MGI:[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "ENSEMBL:ENSMUSG00000032796",
+                                                               "displayName":  "Expression Atlas",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "expression_atlas",
+                                                                                              "urlTemplate":  "http://www.ebi.ac.uk/gxa/genes/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "NCBI_Gene:16772",
+                                                               "displayName":  "BioGRID CRISPR Screen Cell Line Phenotypes",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "biogrid/orcs",
+                                                                                              "urlTemplate":  "https://orcs.thebiogrid.org/Gene/[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "NCBI_Gene:16772",
+                                                               "displayName":  "GEO",
+                                                               "resourceDescriptorPage":  {
+                                                                                              "name":  "gene/other_expression",
+                                                                                              "urlTemplate":  "https://www.ncbi.nlm.nih.gov/sites/entrez?Db=geoprofiles\u0026DbFrom=gene\u0026Cmd=Link\u0026LinkName=gene_geoprofiles\u0026LinkReadableName=GEO%20Profiles\u0026IdsFromResult=[%s]"
+                                                                                          }
+                                                           },
+                                                           {
+                                                               "referencedCurie":  "MGI:99892",
+                                                               "displayName":  "MGI"
+                                                           }
+                                                       ],
+                                   "geneType":  {
+                                                    "curie":  "SO:0001217",
+                                                    "name":  "protein_coding_gene",
+                                                    "ancestors":  [
+                                                                      {
+                                                                          "SO:0000001":  [
+                                                                                             "is_a",
+                                                                                             "part_of"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000110":  [
+                                                                                             "is_a",
+                                                                                             "part_of"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000704":  [
+                                                                                             "is_a",
+                                                                                             "part_of"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0001411":  [
+                                                                                             "is_a"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000110":  [
+                                                                                             "is_a"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000001":  [
+                                                                                             "is_a"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0000704":  [
+                                                                                             "is_a"
+                                                                                         ]
+                                                                      },
+                                                                      {
+                                                                          "SO:0001411":  [
+                                                                                             "is_a",
+                                                                                             "part_of"
+                                                                                         ]
+                                                                      }
+                                                                  ],
+                                                    "descendantCount":  0
+                                                },
+                                   "geneSymbol":  {
+                                                      "formatText":  "Lama1",
+                                                      "displayText":  "Lama1"
+                                                  },
+                                   "geneFullName":  {
+                                                        "formatText":  "laminin, alpha 1",
+                                                        "displayText":  "laminin, alpha 1"
+                                                    },
+                                   "geneSynonyms":  [
+                                                        {
+                                                            "formatText":  "Lama",
+                                                            "displayText":  "Lama"
+                                                        },
+                                                        {
+                                                            "formatText":  "expressed sequence AA408497",
+                                                            "displayText":  "expressed sequence AA408497"
+                                                        },
+                                                        {
+                                                            "formatText":  "AA408497",
+                                                            "displayText":  "AA408497"
+                                                        },
+                                                        {
+                                                            "formatText":  "laminin, A subunit",
+                                                            "displayText":  "laminin, A subunit"
+                                                        }
+                                                    ],
+                                   "geneGenomicLocationAssociations":  [
+                                                                           {
+                                                                               "start":  68004129,
+                                                                               "end":  68129642,
+                                                                               "geneGenomicLocationAssociationObject":  {
+                                                                                                                            "type":  "AssemblyComponent",
+                                                                                                                            "primaryExternalId":  "RefSeq:NC_000083.7",
+                                                                                                                            "dataProvider":  {
+                                                                                                                                                 "type":  "AllianceMember",
+                                                                                                                                                 "abbreviation":  "MGI",
+                                                                                                                                                 "fullName":  "Mouse Genome Informatics"
+                                                                                                                                             },
+                                                                                                                            "taxon":  {
+                                                                                                                                          "curie":  "NCBITaxon:10090",
+                                                                                                                                          "name":  "Mus musculus",
+                                                                                                                                          "descendantCount":  0,
+                                                                                                                                          "species":  {
+                                                                                                                                                          "fullName":  "Mus musculus",
+                                                                                                                                                          "abbreviation":  "Mmu",
+                                                                                                                                                          "displayName":  "MGI",
+                                                                                                                                                          "commonNames":  [
+                                                                                                                                                                              "mouse",
+                                                                                                                                                                              "mmu"
+                                                                                                                                                                          ],
+                                                                                                                                                          "dataProvider":  {
+                                                                                                                                                                               "type":  "AllianceMember",
+                                                                                                                                                                               "abbreviation":  "MGI",
+                                                                                                                                                                               "fullName":  "Mouse Genome Informatics"
+                                                                                                                                                                           },
+                                                                                                                                                          "assembly_curie":  "GRCm39"
+                                                                                                                                                      }
+                                                                                                                                      },
+                                                                                                                            "name":  "17"
+                                                                                                                        },
+                                                                               "strand":  "+"
+                                                                           }
+                                                                       ]
+                               }
+                  },
+    "RGD:1307207":  {
+                        "category":  "gene_summary",
+                        "searchable":  false,
+                        "gene":  {
+                                     "type":  "Gene",
+                                     "primaryExternalId":  "RGD:1307207",
+                                     "dataProvider":  {
+                                                          "type":  "AllianceMember",
+                                                          "abbreviation":  "RGD",
+                                                          "fullName":  "Rat Genome Database"
+                                                      },
+                                     "dataProviderCrossReference":  {
+                                                                        "referencedCurie":  "RGD:1307207",
+                                                                        "displayName":  "RGD:1307207",
+                                                                        "resourceDescriptorPage":  {
+                                                                                                       "name":  "gene",
+                                                                                                       "urlTemplate":  "https://rgd.mcw.edu/rgdweb/report/gene/main.html?id=RGD:[%s]"
+                                                                                                   }
+                                                                    },
+                                     "relatedNotes":  [
+                                                          {
+                                                              "freeText":  "Predicted to enable glycosphingolipid binding activity and receptor ligand activity. Predicted to be an extracellular matrix structural constituent. Predicted to be involved in several processes, including axon guidance; positive regulation of intracellular signal transduction; and positive regulation of skeletal muscle acetylcholine-gated channel clustering. Predicted to act upstream of or within several processes, including morphogenesis of an epithelium; neuron projection development; and retinal blood vessel morphogenesis. Predicted to be located in cell-cell junction; extracellular matrix; and membrane. Predicted to be part of laminin-111 trimer and laminin-121 trimer. Predicted to be active in basement membrane. Orthologous to human LAMA1 (laminin subunit alpha 1); PARTICIPATES IN glypican signaling pathway; syndecan signaling pathway; cell-extracellular matrix signaling pathway; INTERACTS WITH 1-naphthyl isothiocyanate; 2,3,7,8-tetrachlorodibenzodioxine; 2,3,7,8-Tetrachlorodibenzofuran.",
+                                                              "noteType":  {
+                                                                               "name":  "MOD_provided_gene_description"
+                                                                           }
+                                                          },
+                                                          {
+                                                              "freeText":  "Predicted to enable glycosphingolipid binding activity and receptor ligand activity. Predicted to be an extracellular matrix structural constituent. Predicted to be involved in several processes, including axon guidance; positive regulation of intracellular signal transduction; and positive regulation of skeletal muscle acetylcholine-gated channel clustering. Predicted to act upstream of or within several processes, including morphogenesis of an epithelium; neuron projection development; and retinal blood vessel morphogenesis. Predicted to be located in cell-cell junction; extracellular matrix; and membrane. Predicted to be part of laminin-111 trimer and laminin-121 trimer. Predicted to be active in basement membrane. Orthologous to human LAMA1 (laminin subunit alpha 1).",
+                                                              "noteType":  {
+                                                                               "name":  "automated_gene_description"
+                                                                           }
+                                                          }
+                                                      ],
+                                     "taxon":  {
+                                                   "curie":  "NCBITaxon:10116",
+                                                   "name":  "Rattus norvegicus",
+                                                   "descendantCount":  0,
+                                                   "species":  {
+                                                                   "fullName":  "Rattus norvegicus",
+                                                                   "abbreviation":  "Rno",
+                                                                   "displayName":  "RGD",
+                                                                   "commonNames":  [
+                                                                                       "rat",
+                                                                                       "rno"
+                                                                                   ],
+                                                                   "dataProvider":  {
+                                                                                        "type":  "AllianceMember",
+                                                                                        "abbreviation":  "RGD",
+                                                                                        "fullName":  "Rat Genome Database"
+                                                                                    },
+                                                                   "assembly_curie":  "mRatBN7.2"
+                                                               }
+                                               },
+                                     "crossReferences":  [
+                                                             {
+                                                                 "referencedCurie":  "UniProtKB:E3W9F8",
+                                                                 "displayName":  "UniProtKB:E3W9F8",
+                                                                 "resourceDescriptorPage":  {
+                                                                                                "name":  "default",
+                                                                                                "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                            }
+                                                             },
+                                                             {
+                                                                 "referencedCurie":  "ENSEMBL:ENSRNOG00000017237",
+                                                                 "displayName":  "ENSEMBL:ENSRNOG00000017237",
+                                                                 "resourceDescriptorPage":  {
+                                                                                                "name":  "default",
+                                                                                                "urlTemplate":  "http://www.ensembl.org/id/[%s]"
+                                                                                            }
+                                                             },
+                                                             {
+                                                                 "referencedCurie":  "NCBI_Gene:316758",
+                                                                 "displayName":  "NCBI_Gene:316758",
+                                                                 "resourceDescriptorPage":  {
+                                                                                                "name":  "default",
+                                                                                                "urlTemplate":  "https://www.ncbi.nlm.nih.gov/gene/[%s]"
+                                                                                            }
+                                                             },
+                                                             {
+                                                                 "referencedCurie":  "PANTHER:PTHR10574",
+                                                                 "displayName":  "PANTHER:PTHR10574",
+                                                                 "resourceDescriptorPage":  {
+                                                                                                "name":  "default",
+                                                                                                "urlTemplate":  "http://pantherdb.org/panther/family.do?clsAccession=[%s]"
+                                                                                            }
+                                                             }
+                                                         ],
+                                     "geneType":  {
+                                                      "curie":  "SO:0001217",
+                                                      "name":  "protein_coding_gene",
+                                                      "ancestors":  [
+                                                                        {
+                                                                            "SO:0000001":  [
+                                                                                               "is_a",
+                                                                                               "part_of"
+                                                                                           ]
+                                                                        },
+                                                                        {
+                                                                            "SO:0000110":  [
+                                                                                               "is_a",
+                                                                                               "part_of"
+                                                                                           ]
+                                                                        },
+                                                                        {
+                                                                            "SO:0000704":  [
+                                                                                               "is_a",
+                                                                                               "part_of"
+                                                                                           ]
+                                                                        },
+                                                                        {
+                                                                            "SO:0001411":  [
+                                                                                               "is_a"
+                                                                                           ]
+                                                                        },
+                                                                        {
+                                                                            "SO:0000110":  [
+                                                                                               "is_a"
+                                                                                           ]
+                                                                        },
+                                                                        {
+                                                                            "SO:0000001":  [
+                                                                                               "is_a"
+                                                                                           ]
+                                                                        },
+                                                                        {
+                                                                            "SO:0000704":  [
+                                                                                               "is_a"
+                                                                                           ]
+                                                                        },
+                                                                        {
+                                                                            "SO:0001411":  [
+                                                                                               "is_a",
+                                                                                               "part_of"
+                                                                                           ]
+                                                                        }
+                                                                    ],
+                                                      "descendantCount":  0
+                                                  },
+                                     "geneSymbol":  {
+                                                        "formatText":  "Lama1",
+                                                        "displayText":  "Lama1"
+                                                    },
+                                     "geneFullName":  {
+                                                          "formatText":  "laminin subunit alpha 1",
+                                                          "displayText":  "laminin subunit alpha 1"
+                                                      },
+                                     "geneSynonyms":  [
+                                                          {
+                                                              "formatText":  "LOC316758",
+                                                              "displayText":  "LOC316758"
+                                                          },
+                                                          {
+                                                              "formatText":  "laminin-1",
+                                                              "displayText":  "laminin-1"
+                                                          },
+                                                          {
+                                                              "formatText":  "laminin subunit alpha-1",
+                                                              "displayText":  "laminin subunit alpha-1"
+                                                          },
+                                                          {
+                                                              "formatText":  "laminin, alpha 1",
+                                                              "displayText":  "laminin, alpha 1"
+                                                          }
+                                                      ],
+                                     "geneGenomicLocationAssociations":  [
+                                                                             {
+                                                                                 "start":  107692770,
+                                                                                 "end":  107817478,
+                                                                                 "geneGenomicLocationAssociationObject":  {
+                                                                                                                              "type":  "AssemblyComponent",
+                                                                                                                              "primaryExternalId":  "RefSeq:NC_051344.1",
+                                                                                                                              "dataProvider":  {
+                                                                                                                                                   "type":  "AllianceMember",
+                                                                                                                                                   "abbreviation":  "RGD",
+                                                                                                                                                   "fullName":  "Rat Genome Database"
+                                                                                                                                               },
+                                                                                                                              "taxon":  {
+                                                                                                                                            "curie":  "NCBITaxon:10116",
+                                                                                                                                            "name":  "Rattus norvegicus",
+                                                                                                                                            "descendantCount":  0,
+                                                                                                                                            "species":  {
+                                                                                                                                                            "fullName":  "Rattus norvegicus",
+                                                                                                                                                            "abbreviation":  "Rno",
+                                                                                                                                                            "displayName":  "RGD",
+                                                                                                                                                            "commonNames":  [
+                                                                                                                                                                                "rat",
+                                                                                                                                                                                "rno"
+                                                                                                                                                                            ],
+                                                                                                                                                            "dataProvider":  {
+                                                                                                                                                                                 "type":  "AllianceMember",
+                                                                                                                                                                                 "abbreviation":  "RGD",
+                                                                                                                                                                                 "fullName":  "Rat Genome Database"
+                                                                                                                                                                             },
+                                                                                                                                                            "assembly_curie":  "mRatBN7.2"
+                                                                                                                                                        }
+                                                                                                                                        },
+                                                                                                                              "name":  "9"
+                                                                                                                          },
+                                                                                 "strand":  "+"
+                                                                             }
+                                                                         ],
+                                     "gcrpCrossReference":  {
+                                                                "referencedCurie":  "UniProtKB:D4A409",
+                                                                "displayName":  "UniProtKB:D4A409",
+                                                                "resourceDescriptorPage":  {
+                                                                                               "name":  "default",
+                                                                                               "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                           }
+                                                            }
+                                 }
+                    },
+    "Xenbase:XB-GENE-17330574":  {
+                                     "category":  "gene_summary",
+                                     "searchable":  false,
+                                     "gene":  {
+                                                  "type":  "Gene",
+                                                  "primaryExternalId":  "Xenbase:XB-GENE-17330574",
+                                                  "dataProvider":  {
+                                                                       "type":  "AllianceMember",
+                                                                       "abbreviation":  "XB",
+                                                                       "fullName":  "Xenbase"
+                                                                   },
+                                                  "dataProviderCrossReference":  {
+                                                                                     "referencedCurie":  "Xenbase:XB-GENE-17330574",
+                                                                                     "displayName":  "Xenbase:XB-GENE-17330574",
+                                                                                     "resourceDescriptorPage":  {
+                                                                                                                    "name":  "gene",
+                                                                                                                    "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                                }
+                                                                                 },
+                                                  "relatedNotes":  [
+                                                                       {
+                                                                           "freeText":  "Is expressed in genital system. Orthologous to human LAMA1 (laminin subunit alpha 1).",
+                                                                           "noteType":  {
+                                                                                            "name":  "automated_gene_description"
+                                                                                        }
+                                                                       }
+                                                                   ],
+                                                  "taxon":  {
+                                                                "curie":  "NCBITaxon:8355",
+                                                                "name":  "Xenopus laevis",
+                                                                "descendantCount":  0,
+                                                                "species":  {
+                                                                                "fullName":  "Xenopus laevis",
+                                                                                "abbreviation":  "Xla",
+                                                                                "displayName":  "XBXL",
+                                                                                "commonNames":  [
+                                                                                                    "African clawed frog",
+                                                                                                    "xbxl",
+                                                                                                    "X.laevis",
+                                                                                                    "X. laevis",
+                                                                                                    "Bufo laevis",
+                                                                                                    "Common platanna",
+                                                                                                    "Platanna",
+                                                                                                    "African claw-toed frog"
+                                                                                                ],
+                                                                                "dataProvider":  {
+                                                                                                     "type":  "AllianceMember",
+                                                                                                     "abbreviation":  "XB",
+                                                                                                     "fullName":  "Xenbase"
+                                                                                                 },
+                                                                                "assembly_curie":  "XL10.1"
+                                                                            }
+                                                            },
+                                                  "crossReferences":  [
+                                                                          {
+                                                                              "referencedCurie":  "Xenbase:XB-GENEPAGE-968307",
+                                                                              "displayName":  "Xenbase:XB-GENE-17330574",
+                                                                              "resourceDescriptorPage":  {
+                                                                                                             "name":  "gene",
+                                                                                                             "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                         }
+                                                                          },
+                                                                          {
+                                                                              "referencedCurie":  "NCBI_Gene:108718546",
+                                                                              "displayName":  "NCBI_Gene:108718546",
+                                                                              "resourceDescriptorPage":  {
+                                                                                                             "name":  "default",
+                                                                                                             "urlTemplate":  "https://www.ncbi.nlm.nih.gov/gene/[%s]"
+                                                                                                         }
+                                                                          },
+                                                                          {
+                                                                              "referencedCurie":  "RefSeq:OCT76655",
+                                                                              "displayName":  "RefSeq:OCT76655",
+                                                                              "resourceDescriptorPage":  {
+                                                                                                             "name":  "default",
+                                                                                                             "urlTemplate":  "https://www.ncbi.nlm.nih.gov/nuccore/[%s]"
+                                                                                                         }
+                                                                          },
+                                                                          {
+                                                                              "referencedCurie":  "RefSeq:XP_041422315",
+                                                                              "displayName":  "RefSeq:XP_041422315",
+                                                                              "resourceDescriptorPage":  {
+                                                                                                             "name":  "default",
+                                                                                                             "urlTemplate":  "https://www.ncbi.nlm.nih.gov/nuccore/[%s]"
+                                                                                                         }
+                                                                          },
+                                                                          {
+                                                                              "referencedCurie":  "Xenbase:XB-GENELITERATURE-968307",
+                                                                              "displayName":  "Xenbase:XB-GENE-17330574",
+                                                                              "resourceDescriptorPage":  {
+                                                                                                             "name":  "gene/references",
+                                                                                                             "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                         }
+                                                                          },
+                                                                          {
+                                                                              "referencedCurie":  "Xenbase:XB-GENEPHENOTYPE-968307",
+                                                                              "displayName":  "Xenbase:XB-GENE-17330574",
+                                                                              "resourceDescriptorPage":  {
+                                                                                                             "name":  "gene/phenotypes",
+                                                                                                             "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                         }
+                                                                          },
+                                                                          {
+                                                                              "referencedCurie":  "Xenbase:XB-GENEEXPRESSION-968307",
+                                                                              "displayName":  "Xenbase:XB-GENE-17330574",
+                                                                              "resourceDescriptorPage":  {
+                                                                                                             "name":  "gene/expression",
+                                                                                                             "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                         }
+                                                                          }
+                                                                      ],
+                                                  "geneType":  {
+                                                                   "curie":  "SO:0000704",
+                                                                   "name":  "gene",
+                                                                   "ancestors":  [
+                                                                                     {
+                                                                                         "SO:0000001":  [
+                                                                                                            "is_a",
+                                                                                                            "part_of"
+                                                                                                        ]
+                                                                                     },
+                                                                                     {
+                                                                                         "SO:0000110":  [
+                                                                                                            "is_a",
+                                                                                                            "part_of"
+                                                                                                        ]
+                                                                                     },
+                                                                                     {
+                                                                                         "SO:0001411":  [
+                                                                                                            "is_a"
+                                                                                                        ]
+                                                                                     },
+                                                                                     {
+                                                                                         "SO:0000001":  [
+                                                                                                            "is_a"
+                                                                                                        ]
+                                                                                     },
+                                                                                     {
+                                                                                         "SO:0000110":  [
+                                                                                                            "is_a"
+                                                                                                        ]
+                                                                                     },
+                                                                                     {
+                                                                                         "SO:0001411":  [
+                                                                                                            "is_a",
+                                                                                                            "part_of"
+                                                                                                        ]
+                                                                                     }
+                                                                                 ],
+                                                                   "descendantCount":  0
+                                                               },
+                                                  "geneSymbol":  {
+                                                                     "formatText":  "lama1.L",
+                                                                     "displayText":  "lama1.L"
+                                                                 },
+                                                  "geneFullName":  {
+                                                                       "formatText":  "laminin subunit alpha 1",
+                                                                       "displayText":  "laminin subunit alpha 1"
+                                                                   },
+                                                  "geneSynonyms":  [
+                                                                       {
+                                                                           "formatText":  "LOC108718546",
+                                                                           "displayText":  "LOC108718546"
+                                                                       }
+                                                                   ],
+                                                  "geneGenomicLocationAssociations":  [
+                                                                                          {
+                                                                                              "start":  112359134,
+                                                                                              "end":  112471095,
+                                                                                              "geneGenomicLocationAssociationObject":  {
+                                                                                                                                           "type":  "AssemblyComponent",
+                                                                                                                                           "dataProvider":  {
+                                                                                                                                                                "type":  "AllianceMember",
+                                                                                                                                                                "abbreviation":  "XB",
+                                                                                                                                                                "fullName":  "Xenbase"
+                                                                                                                                                            },
+                                                                                                                                           "taxon":  {
+                                                                                                                                                         "curie":  "NCBITaxon:8355",
+                                                                                                                                                         "name":  "Xenopus laevis",
+                                                                                                                                                         "descendantCount":  0,
+                                                                                                                                                         "species":  {
+                                                                                                                                                                         "fullName":  "Xenopus laevis",
+                                                                                                                                                                         "abbreviation":  "Xla",
+                                                                                                                                                                         "displayName":  "XBXL",
+                                                                                                                                                                         "commonNames":  [
+                                                                                                                                                                                             "African clawed frog",
+                                                                                                                                                                                             "xbxl",
+                                                                                                                                                                                             "X.laevis",
+                                                                                                                                                                                             "X. laevis",
+                                                                                                                                                                                             "Bufo laevis",
+                                                                                                                                                                                             "Common platanna",
+                                                                                                                                                                                             "Platanna",
+                                                                                                                                                                                             "African claw-toed frog"
+                                                                                                                                                                                         ],
+                                                                                                                                                                         "dataProvider":  {
+                                                                                                                                                                                              "type":  "AllianceMember",
+                                                                                                                                                                                              "abbreviation":  "XB",
+                                                                                                                                                                                              "fullName":  "Xenbase"
+                                                                                                                                                                                          },
+                                                                                                                                                                         "assembly_curie":  "XL10.1"
+                                                                                                                                                                     }
+                                                                                                                                                     },
+                                                                                                                                           "name":  "Chr6L"
+                                                                                                                                       },
+                                                                                              "strand":  "+"
+                                                                                          }
+                                                                                      ]
+                                              }
+                                 },
+    "ZFIN:ZDB-GENE-060118-1":  {
+                                   "category":  "gene_summary",
+                                   "searchable":  false,
+                                   "gene":  {
+                                                "type":  "Gene",
+                                                "primaryExternalId":  "ZFIN:ZDB-GENE-060118-1",
+                                                "dataProvider":  {
+                                                                     "type":  "AllianceMember",
+                                                                     "abbreviation":  "ZFIN",
+                                                                     "fullName":  "Zebrafish Information Network"
+                                                                 },
+                                                "dataProviderCrossReference":  {
+                                                                                   "referencedCurie":  "ZFIN:ZDB-GENE-060118-1",
+                                                                                   "displayName":  "ZDB-GENE-060118-1",
+                                                                                   "resourceDescriptorPage":  {
+                                                                                                                  "name":  "fish",
+                                                                                                                  "urlTemplate":  "https://zfin.org/[%s]"
+                                                                                                              }
+                                                                               },
+                                                "relatedNotes":  [
+                                                                     {
+                                                                         "freeText":  "Predicted to be an extracellular matrix structural constituent. Acts upstream of or within several processes, including camera-type eye development; nervous system development; and notochord cell development. Predicted to be located in cell junction and extracellular region. Predicted to be part of laminin trimer. Predicted to be active in basement membrane. Is expressed in several structures, including central nervous system; eye; immature eye; pronephros; and trunk. Orthologous to human LAMA1 (laminin subunit alpha 1).",
+                                                                         "noteType":  {
+                                                                                          "name":  "automated_gene_description"
+                                                                                      }
+                                                                     }
+                                                                 ],
+                                                "taxon":  {
+                                                              "curie":  "NCBITaxon:7955",
+                                                              "name":  "Danio rerio",
+                                                              "descendantCount":  0,
+                                                              "species":  {
+                                                                              "fullName":  "Danio rerio",
+                                                                              "abbreviation":  "Dre",
+                                                                              "displayName":  "ZFIN",
+                                                                              "commonNames":  [
+                                                                                                  "zebrafish",
+                                                                                                  "fish",
+                                                                                                  "dre"
+                                                                                              ],
+                                                                              "dataProvider":  {
+                                                                                                   "type":  "AllianceMember",
+                                                                                                   "abbreviation":  "ZFIN",
+                                                                                                   "fullName":  "Zebrafish Information Network"
+                                                                                               },
+                                                                              "assembly_curie":  "GRCz11"
+                                                                          }
+                                                          },
+                                                "crossReferences":  [
+                                                                        {
+                                                                            "referencedCurie":  "UniProtKB:Q45H72",
+                                                                            "displayName":  "UniProtKB:Q45H72",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "PANTHER:PTHR10574",
+                                                                            "displayName":  "PANTHER:PTHR10574",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "http://pantherdb.org/panther/family.do?clsAccession=[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "NCBI_Gene:569971",
+                                                                            "displayName":  "NCBI_Gene:569971",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "https://www.ncbi.nlm.nih.gov/gene/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "ENSEMBL:ENSDARG00000102277",
+                                                                            "displayName":  "ENSEMBL:ENSDARG00000102277",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "http://www.ensembl.org/id/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "displayName":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene/wild_type_expression",
+                                                                                                           "urlTemplate":  "https://zfin.org/[%s]/wt-expression"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "displayName":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene/expression",
+                                                                                                           "urlTemplate":  "https://zfin.org/action/marker/[%s]/expression"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "displayName":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene/expression_images",
+                                                                                                           "urlTemplate":  "https://zfin.org/[%s]/wt-expression/images"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "displayName":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene",
+                                                                                                           "urlTemplate":  "https://zfin.org/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "displayName":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene/references",
+                                                                                                           "urlTemplate":  "https://zfin.org/action/marker/citation-list/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "ENSEMBL:ENSDARG00000102277",
+                                                                            "displayName":  "Expression Atlas",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "expression_atlas",
+                                                                                                           "urlTemplate":  "http://www.ebi.ac.uk/gxa/genes/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "ZFIN:ZDB-GENE-060118-1",
+                                                                            "displayName":  "ZFIN",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene/phenotypes",
+                                                                                                           "urlTemplate":  "https://zfin.org/action/marker/[%s]/phenotype-summary"
+                                                                                                       }
+                                                                        }
+                                                                    ],
+                                                "geneType":  {
+                                                                 "curie":  "SO:0001217",
+                                                                 "name":  "protein_coding_gene",
+                                                                 "ancestors":  [
+                                                                                   {
+                                                                                       "SO:0000001":  [
+                                                                                                          "is_a",
+                                                                                                          "part_of"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0000110":  [
+                                                                                                          "is_a",
+                                                                                                          "part_of"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0000704":  [
+                                                                                                          "is_a",
+                                                                                                          "part_of"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0001411":  [
+                                                                                                          "is_a"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0000110":  [
+                                                                                                          "is_a"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0000001":  [
+                                                                                                          "is_a"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0000704":  [
+                                                                                                          "is_a"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0001411":  [
+                                                                                                          "is_a",
+                                                                                                          "part_of"
+                                                                                                      ]
+                                                                                   }
+                                                                               ],
+                                                                 "descendantCount":  0
+                                                             },
+                                                "geneSymbol":  {
+                                                                   "formatText":  "lama1",
+                                                                   "displayText":  "lama1"
+                                                               },
+                                                "geneFullName":  {
+                                                                     "formatText":  "laminin, alpha 1",
+                                                                     "displayText":  "laminin, alpha 1"
+                                                                 },
+                                                "geneSynonyms":  [
+                                                                     {
+                                                                         "formatText":  "bal",
+                                                                         "displayText":  "bal"
+                                                                     },
+                                                                     {
+                                                                         "formatText":  "bashful",
+                                                                         "displayText":  "bashful"
+                                                                     },
+                                                                     {
+                                                                         "formatText":  "zmp:0000000656",
+                                                                         "displayText":  "zmp:0000000656"
+                                                                     }
+                                                                 ],
+                                                "geneGenomicLocationAssociations":  [
+                                                                                        {
+                                                                                            "start":  41690545,
+                                                                                            "end":  41784173,
+                                                                                            "geneGenomicLocationAssociationObject":  {
+                                                                                                                                         "type":  "AssemblyComponent",
+                                                                                                                                         "primaryExternalId":  "RefSeq:NC_007135.7",
+                                                                                                                                         "dataProvider":  {
+                                                                                                                                                              "type":  "AllianceMember",
+                                                                                                                                                              "abbreviation":  "ZFIN",
+                                                                                                                                                              "fullName":  "Zebrafish Information Network"
+                                                                                                                                                          },
+                                                                                                                                         "taxon":  {
+                                                                                                                                                       "curie":  "NCBITaxon:7955",
+                                                                                                                                                       "name":  "Danio rerio",
+                                                                                                                                                       "descendantCount":  0,
+                                                                                                                                                       "species":  {
+                                                                                                                                                                       "fullName":  "Danio rerio",
+                                                                                                                                                                       "abbreviation":  "Dre",
+                                                                                                                                                                       "displayName":  "ZFIN",
+                                                                                                                                                                       "commonNames":  [
+                                                                                                                                                                                           "zebrafish",
+                                                                                                                                                                                           "fish",
+                                                                                                                                                                                           "dre"
+                                                                                                                                                                                       ],
+                                                                                                                                                                       "dataProvider":  {
+                                                                                                                                                                                            "type":  "AllianceMember",
+                                                                                                                                                                                            "abbreviation":  "ZFIN",
+                                                                                                                                                                                            "fullName":  "Zebrafish Information Network"
+                                                                                                                                                                                        },
+                                                                                                                                                                       "assembly_curie":  "GRCz11"
+                                                                                                                                                                   }
+                                                                                                                                                   },
+                                                                                                                                         "name":  "24"
+                                                                                                                                     },
+                                                                                            "strand":  "+"
+                                                                                        }
+                                                                                    ]
+                                            }
+                               },
+    "Xenbase:XB-GENE-968308":  {
+                                   "category":  "gene_summary",
+                                   "searchable":  false,
+                                   "gene":  {
+                                                "type":  "Gene",
+                                                "primaryExternalId":  "Xenbase:XB-GENE-968308",
+                                                "dataProvider":  {
+                                                                     "type":  "AllianceMember",
+                                                                     "abbreviation":  "XB",
+                                                                     "fullName":  "Xenbase"
+                                                                 },
+                                                "dataProviderCrossReference":  {
+                                                                                   "referencedCurie":  "Xenbase:XB-GENE-968308",
+                                                                                   "displayName":  "Xenbase:XB-GENE-968308",
+                                                                                   "resourceDescriptorPage":  {
+                                                                                                                  "name":  "gene",
+                                                                                                                  "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                              }
+                                                                               },
+                                                "relatedNotes":  [
+                                                                     {
+                                                                         "freeText":  "Predicted to be an extracellular matrix structural constituent. Predicted to be involved in several processes, including axon guidance; blood vessel morphogenesis; and camera-type eye development. Predicted to act upstream of or within several processes, including regulation of cell adhesion; regulation of cell migration; and regulation of embryonic development. Predicted to be located in extracellular region. Predicted to be part of laminin trimer. Predicted to be active in basement membrane. Orthologous to human LAMA1 (laminin subunit alpha 1).",
+                                                                         "noteType":  {
+                                                                                          "name":  "automated_gene_description"
+                                                                                      }
+                                                                     }
+                                                                 ],
+                                                "taxon":  {
+                                                              "curie":  "NCBITaxon:8364",
+                                                              "name":  "Xenopus tropicalis",
+                                                              "descendantCount":  0,
+                                                              "species":  {
+                                                                              "fullName":  "Xenopus tropicalis",
+                                                                              "abbreviation":  "Xtr",
+                                                                              "displayName":  "XBXT",
+                                                                              "commonNames":  [
+                                                                                                  "Western clawed frog",
+                                                                                                  "xbxt",
+                                                                                                  "X.tropicalis",
+                                                                                                  "X. tropicalis",
+                                                                                                  "Tropical clawed frog",
+                                                                                                  "Silurana tropicalis"
+                                                                                              ],
+                                                                              "dataProvider":  {
+                                                                                                   "type":  "AllianceMember",
+                                                                                                   "abbreviation":  "XB",
+                                                                                                   "fullName":  "Xenbase"
+                                                                                               },
+                                                                              "assembly_curie":  "XT10.0"
+                                                                          }
+                                                          },
+                                                "crossReferences":  [
+                                                                        {
+                                                                            "referencedCurie":  "Xenbase:XB-GENEPAGE-968307",
+                                                                            "displayName":  "Xenbase:XB-GENE-968308",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene",
+                                                                                                           "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "ENSEMBL:ENSXETG00000004956",
+                                                                            "displayName":  "ENSEMBL:ENSXETG00000004956",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "http://www.ensembl.org/id/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "NCBI_Gene:100488009",
+                                                                            "displayName":  "NCBI_Gene:100488009",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "https://www.ncbi.nlm.nih.gov/gene/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "RefSeq:KAE8598420",
+                                                                            "displayName":  "RefSeq:KAE8598420",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "https://www.ncbi.nlm.nih.gov/nuccore/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "RefSeq:KAE8598421",
+                                                                            "displayName":  "RefSeq:KAE8598421",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "https://www.ncbi.nlm.nih.gov/nuccore/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "UniProtKB:A0A8J0QPC2",
+                                                                            "displayName":  "UniProtKB:A0A8J0QPC2",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "UniProtKB:F7AVS9",
+                                                                            "displayName":  "UniProtKB:F7AVS9",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "default",
+                                                                                                           "urlTemplate":  "http://www.uniprot.org/uniprot/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "Xenbase:XB-GENELITERATURE-968307",
+                                                                            "displayName":  "Xenbase:XB-GENE-968308",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene/references",
+                                                                                                           "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "Xenbase:XB-GENEPHENOTYPE-968307",
+                                                                            "displayName":  "Xenbase:XB-GENE-968308",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene/phenotypes",
+                                                                                                           "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                       }
+                                                                        },
+                                                                        {
+                                                                            "referencedCurie":  "Xenbase:XB-GENEEXPRESSION-968307",
+                                                                            "displayName":  "Xenbase:XB-GENE-968308",
+                                                                            "resourceDescriptorPage":  {
+                                                                                                           "name":  "gene/expression",
+                                                                                                           "urlTemplate":  "https://www.xenbase.org/entry/[%s]"
+                                                                                                       }
+                                                                        }
+                                                                    ],
+                                                "geneType":  {
+                                                                 "curie":  "SO:0000704",
+                                                                 "name":  "gene",
+                                                                 "ancestors":  [
+                                                                                   {
+                                                                                       "SO:0000001":  [
+                                                                                                          "is_a",
+                                                                                                          "part_of"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0000110":  [
+                                                                                                          "is_a",
+                                                                                                          "part_of"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0001411":  [
+                                                                                                          "is_a"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0000001":  [
+                                                                                                          "is_a"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0000110":  [
+                                                                                                          "is_a"
+                                                                                                      ]
+                                                                                   },
+                                                                                   {
+                                                                                       "SO:0001411":  [
+                                                                                                          "is_a",
+                                                                                                          "part_of"
+                                                                                                      ]
+                                                                                   }
+                                                                               ],
+                                                                 "descendantCount":  0
+                                                             },
+                                                "geneSymbol":  {
+                                                                   "formatText":  "lama1",
+                                                                   "displayText":  "lama1"
+                                                               },
+                                                "geneFullName":  {
+                                                                     "formatText":  "laminin subunit alpha 1",
+                                                                     "displayText":  "laminin subunit alpha 1"
+                                                                 },
+                                                "geneSynonyms":  [
+                                                                     {
+                                                                         "formatText":  "LOC108718546",
+                                                                         "displayText":  "LOC108718546"
+                                                                     }
+                                                                 ],
+                                                "geneGenomicLocationAssociations":  [
+                                                                                        {
+                                                                                            "start":  105766947,
+                                                                                            "end":  105866190,
+                                                                                            "geneGenomicLocationAssociationObject":  {
+                                                                                                                                         "type":  "AssemblyComponent",
+                                                                                                                                         "dataProvider":  {
+                                                                                                                                                              "type":  "AllianceMember",
+                                                                                                                                                              "abbreviation":  "XB",
+                                                                                                                                                              "fullName":  "Xenbase"
+                                                                                                                                                          },
+                                                                                                                                         "taxon":  {
+                                                                                                                                                       "curie":  "NCBITaxon:8364",
+                                                                                                                                                       "name":  "Xenopus tropicalis",
+                                                                                                                                                       "descendantCount":  0,
+                                                                                                                                                       "species":  {
+                                                                                                                                                                       "fullName":  "Xenopus tropicalis",
+                                                                                                                                                                       "abbreviation":  "Xtr",
+                                                                                                                                                                       "displayName":  "XBXT",
+                                                                                                                                                                       "commonNames":  [
+                                                                                                                                                                                           "Western clawed frog",
+                                                                                                                                                                                           "xbxt",
+                                                                                                                                                                                           "X.tropicalis",
+                                                                                                                                                                                           "X. tropicalis",
+                                                                                                                                                                                           "Tropical clawed frog",
+                                                                                                                                                                                           "Silurana tropicalis"
+                                                                                                                                                                                       ],
+                                                                                                                                                                       "dataProvider":  {
+                                                                                                                                                                                            "type":  "AllianceMember",
+                                                                                                                                                                                            "abbreviation":  "XB",
+                                                                                                                                                                                            "fullName":  "Xenbase"
+                                                                                                                                                                                        },
+                                                                                                                                                                       "assembly_curie":  "XT10.0"
+                                                                                                                                                                   }
+                                                                                                                                                   },
+                                                                                                                                         "name":  "Chr6"
+                                                                                                                                     },
+                                                                                            "strand":  "+"
+                                                                                        }
+                                                                                    ]
+                                            }
+                               }
+}

@@ -13,6 +13,10 @@ dist
 dist-ssr
 *.local
 
+# Course/planning documents (not part of the site)
+*.pdf
+*.docx
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

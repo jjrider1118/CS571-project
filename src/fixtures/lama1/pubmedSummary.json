@@ -1,0 +1,1336 @@
+﻿{
+    "header":  {
+                   "type":  "esummary",
+                   "version":  "0.3"
+               },
+    "result":  {
+                   "uids":  [
+                                "36244504",
+                                "33544077",
+                                "31589834",
+                                "27856309",
+                                "27339294",
+                                "24526906",
+                                "22859503",
+                                "19013446",
+                                "17525225",
+                                "16973147"
+                            ],
+                   "36244504":  {
+                                    "uid":  "36244504",
+                                    "pubdate":  "2022 Dec",
+                                    "epubdate":  "2022 Oct 13",
+                                    "source":  "Dev Biol",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Falat EJ",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Voit GC",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Gutzman JH",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Gutzman JH",
+                                    "title":  "Laminin-111 mutant studies reveal a hierarchy within laminin-111 genes in their requirement for basal epithelial tissue folding.",
+                                    "sorttitle":  "laminin 111 mutant studies reveal a hierarchy within laminin 111 genes in their requirement for basal epithelial tissue folding",
+                                    "volume":  "492",
+                                    "issue":  "",
+                                    "pages":  "172-186",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "0372762",
+                                    "issn":  "0012-1606",
+                                    "essn":  "1095-564X",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Research Support, Non-U.S. Gov\u0027t"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "256",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "36244504"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.1016/j.ydbio.2022.10.006"
+                                                       },
+                                                       {
+                                                           "idtype":  "pii",
+                                                           "idtypen":  4,
+                                                           "value":  "S0012-1606(22)00195-6"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "received",
+                                                        "date":  "2022/06/17 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "revised",
+                                                        "date":  "2022/09/29 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "accepted",
+                                                        "date":  "2022/10/10 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2022/10/17 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2022/11/10 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2022/10/16 19:44"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  "",
+                                    "fulljournalname":  "Developmental biology",
+                                    "elocationid":  "doi: 10.1016/j.ydbio.2022.10.006",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2022/12/01 00:00",
+                                    "sortfirstauthor":  "Falat EJ",
+                                    "vernaculartitle":  ""
+                                },
+                   "33544077":  {
+                                    "uid":  "33544077",
+                                    "pubdate":  "2021 Feb 5",
+                                    "epubdate":  "2021 Feb 5",
+                                    "source":  "Elife",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Geusz RJ",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Wang A",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Chiou J",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Lancman JJ",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Wetton N",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Kefalopoulou S",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Wang J",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Qiu Y",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Yan J",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Aylward A",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Ren B",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Dong PDS",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Gaulton KJ",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Sander M",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Sander M",
+                                    "title":  "Pancreatic progenitor epigenome maps prioritize type 2 diabetes risk genes with roles in development.",
+                                    "sorttitle":  "pancreatic progenitor epigenome maps prioritize type 2 diabetes risk genes with roles in development",
+                                    "volume":  "10",
+                                    "issue":  "",
+                                    "pages":  "",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "101579614",
+                                    "issn":  "",
+                                    "essn":  "2050-084X",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Research Support, N.I.H., Extramural",
+                                                    "Research Support, Non-U.S. Gov\u0027t"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "3",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "33544077"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmc",
+                                                           "idtypen":  8,
+                                                           "value":  "PMC7864636"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmcid",
+                                                           "idtypen":  5,
+                                                           "value":  "pmc-id: PMC7864636;"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.7554/eLife.59067"
+                                                       },
+                                                       {
+                                                           "idtype":  "pii",
+                                                           "idtypen":  4,
+                                                           "value":  "59067"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "received",
+                                                        "date":  "2020/07/01 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "accepted",
+                                                        "date":  "2021/01/18 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2021/02/05 12:11"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2021/02/06 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2022/02/01 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pmc-release",
+                                                        "date":  "2021/02/05 00:00"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  95,
+                                    "fulljournalname":  "eLife",
+                                    "elocationid":  "doi: 10.7554/eLife.59067",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2021/02/05 00:00",
+                                    "sortfirstauthor":  "Geusz RJ",
+                                    "vernaculartitle":  ""
+                                },
+                   "31589834":  {
+                                    "uid":  "31589834",
+                                    "pubdate":  "2020 Feb 1",
+                                    "epubdate":  "2019 Oct 5",
+                                    "source":  "Dev Biol",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Carney KR",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Bryan CD",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Gordon HB",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Kwan KM",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Kwan KM",
+                                    "title":  "LongAxis: A MATLAB-based program for 3D quantitative analysis of epithelial cell shape and orientation.",
+                                    "sorttitle":  "longaxis a matlab based program for 3d quantitative analysis of epithelial cell shape and orientation",
+                                    "volume":  "458",
+                                    "issue":  "1",
+                                    "pages":  "1-11",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "0372762",
+                                    "issn":  "0012-1606",
+                                    "essn":  "1095-564X",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Video-Audio Media"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "256",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "31589834"
+                                                       },
+                                                       {
+                                                           "idtype":  "mid",
+                                                           "idtypen":  8,
+                                                           "value":  "NIHMS1545076"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmc",
+                                                           "idtypen":  8,
+                                                           "value":  "PMC6987011"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmcid",
+                                                           "idtypen":  5,
+                                                           "value":  "pmc-id: PMC6987011;manuscript-id: NIHMS1545076;"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.1016/j.ydbio.2019.09.016"
+                                                       },
+                                                       {
+                                                           "idtype":  "pii",
+                                                           "idtypen":  4,
+                                                           "value":  "S0012-1606(19)30414-2"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "received",
+                                                        "date":  "2019/07/09 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "revised",
+                                                        "date":  "2019/09/13 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "accepted",
+                                                        "date":  "2019/09/27 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2019/10/08 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2020/02/19 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2019/10/08 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pmc-release",
+                                                        "date":  "2021/02/01 00:00"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  38,
+                                    "fulljournalname":  "Developmental biology",
+                                    "elocationid":  "doi: 10.1016/j.ydbio.2019.09.016",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2020/02/01 00:00",
+                                    "sortfirstauthor":  "Carney KR",
+                                    "vernaculartitle":  ""
+                                },
+                   "27856309":  {
+                                    "uid":  "27856309",
+                                    "pubdate":  "2017 Oct",
+                                    "epubdate":  "2016 Nov 14",
+                                    "source":  "Matrix Biol",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Pickering J",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Cunliffe VT",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Van Eeden F",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Borycki AG",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Borycki AG",
+                                    "title":  "Hedgehog signalling acts upstream of Laminin alpha1 transcription in the zebrafish paraxial mesoderm.",
+                                    "sorttitle":  "hedgehog signalling acts upstream of laminin alpha1 transcription in the zebrafish paraxial mesoderm",
+                                    "volume":  "62",
+                                    "issue":  "",
+                                    "pages":  "58-74",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "9432592",
+                                    "issn":  "0945-053X",
+                                    "essn":  "1569-1802",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Research Support, Non-U.S. Gov\u0027t"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "256",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "27856309"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.1016/j.matbio.2016.11.004"
+                                                       },
+                                                       {
+                                                           "idtype":  "pii",
+                                                           "idtypen":  4,
+                                                           "value":  "S0945-053X(16)30224-4"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "received",
+                                                        "date":  "2016/09/27 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "revised",
+                                                        "date":  "2016/11/01 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "accepted",
+                                                        "date":  "2016/11/02 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2016/11/20 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2018/04/28 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2016/11/19 06:00"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  "",
+                                    "fulljournalname":  "Matrix biology : journal of the International Society for Matrix Biology",
+                                    "elocationid":  "doi: 10.1016/j.matbio.2016.11.004",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2017/10/01 00:00",
+                                    "sortfirstauthor":  "Pickering J",
+                                    "vernaculartitle":  ""
+                                },
+                   "27339294":  {
+                                    "uid":  "27339294",
+                                    "pubdate":  "2016 Aug 15",
+                                    "epubdate":  "2016 Jun 20",
+                                    "source":  "Dev Biol",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Bryan CD",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Chien CB",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Kwan KM",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Kwan KM",
+                                    "title":  "Loss of laminin alpha 1 results in multiple structural defects and divergent effects on adhesion during vertebrate optic cup morphogenesis.",
+                                    "sorttitle":  "loss of laminin alpha 1 results in multiple structural defects and divergent effects on adhesion during vertebrate optic cup morphogenesis",
+                                    "volume":  "416",
+                                    "issue":  "2",
+                                    "pages":  "324-37",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "0372762",
+                                    "issn":  "0012-1606",
+                                    "essn":  "1095-564X",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Research Support, Non-U.S. Gov\u0027t",
+                                                    "Research Support, N.I.H., Extramural"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "256",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "27339294"
+                                                       },
+                                                       {
+                                                           "idtype":  "mid",
+                                                           "idtypen":  8,
+                                                           "value":  "NIHMS800097"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmc",
+                                                           "idtypen":  8,
+                                                           "value":  "PMC5288406"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmcid",
+                                                           "idtypen":  5,
+                                                           "value":  "pmc-id: PMC5288406;manuscript-id: NIHMS800097;"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.1016/j.ydbio.2016.06.025"
+                                                       },
+                                                       {
+                                                           "idtype":  "pii",
+                                                           "idtypen":  4,
+                                                           "value":  "S0012-1606(16)30025-2"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "received",
+                                                        "date":  "2016/01/19 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "revised",
+                                                        "date":  "2016/06/08 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "accepted",
+                                                        "date":  "2016/06/16 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2016/06/25 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2016/06/25 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2017/05/31 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pmc-release",
+                                                        "date":  "2017/08/15 00:00"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  58,
+                                    "fulljournalname":  "Developmental biology",
+                                    "elocationid":  "doi: 10.1016/j.ydbio.2016.06.025",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2016/08/15 00:00",
+                                    "sortfirstauthor":  "Bryan CD",
+                                    "vernaculartitle":  ""
+                                },
+                   "24526906":  {
+                                    "uid":  "24526906",
+                                    "pubdate":  "2014",
+                                    "epubdate":  "2014 Jan 15",
+                                    "source":  "ScientificWorldJournal",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Pathania M",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Semina EV",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Duncan MK",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Duncan MK",
+                                    "title":  "Lens extrusion from Laminin alpha 1 mutant zebrafish.",
+                                    "sorttitle":  "lens extrusion from laminin alpha 1 mutant zebrafish",
+                                    "volume":  "2014",
+                                    "issue":  "",
+                                    "pages":  "524929",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "101131163",
+                                    "issn":  "2356-6140",
+                                    "essn":  "1537-744X",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Research Support, N.I.H., Extramural"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "258",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "24526906"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmc",
+                                                           "idtypen":  8,
+                                                           "value":  "PMC3914655"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmcid",
+                                                           "idtypen":  5,
+                                                           "value":  "pmc-id: PMC3914655;"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.1155/2014/524929"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "received",
+                                                        "date":  "2013/10/16 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "accepted",
+                                                        "date":  "2013/11/26 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2014/02/15 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2014/02/15 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2014/12/17 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pmc-release",
+                                                        "date":  "2014/01/15 00:00"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  80,
+                                    "fulljournalname":  "TheScientificWorldJournal",
+                                    "elocationid":  "doi: 10.1155/2014/524929",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2014/01/15 00:00",
+                                    "sortfirstauthor":  "Pathania M",
+                                    "vernaculartitle":  ""
+                                },
+                   "22859503":  {
+                                    "uid":  "22859503",
+                                    "pubdate":  "2012 Nov 1",
+                                    "epubdate":  "2012 Jul 31",
+                                    "source":  "Hum Mol Genet",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Sztal TE",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Sonntag C",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Hall TE",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Currie PD",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Currie PD",
+                                    "title":  "Epistatic dissection of laminin-receptor interactions in dystrophic zebrafish muscle.",
+                                    "sorttitle":  "epistatic dissection of laminin receptor interactions in dystrophic zebrafish muscle",
+                                    "volume":  "21",
+                                    "issue":  "21",
+                                    "pages":  "4718-31",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "9208958",
+                                    "issn":  "0964-6906",
+                                    "essn":  "1460-2083",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Research Support, Non-U.S. Gov\u0027t"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "256",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "22859503"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.1093/hmg/dds312"
+                                                       },
+                                                       {
+                                                           "idtype":  "pii",
+                                                           "idtypen":  4,
+                                                           "value":  "dds312"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2012/08/04 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2012/08/04 06:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2013/04/04 06:00"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  "",
+                                    "fulljournalname":  "Human molecular genetics",
+                                    "elocationid":  "doi: 10.1093/hmg/dds312",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2012/11/01 00:00",
+                                    "sortfirstauthor":  "Sztal TE",
+                                    "vernaculartitle":  ""
+                                },
+                   "19013446":  {
+                                    "uid":  "19013446",
+                                    "pubdate":  "2009 Jan 15",
+                                    "epubdate":  "2008 Nov 5",
+                                    "source":  "Dev Biol",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Sittaramane V",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Sawant A",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Wolman MA",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Maves L",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Halloran MC",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Chandrasekhar A",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Chandrasekhar A",
+                                    "title":  "The cell adhesion molecule Tag1, transmembrane protein Stbm/Vangl2, and Lamininalpha1 exhibit genetic interactions during migration of facial branchiomotor neurons in zebrafish.",
+                                    "sorttitle":  "cell adhesion molecule tag1 transmembrane protein stbm vangl2 and lamininalpha1 exhibit genetic interactions during migration of facial branchiomotor neurons in zebrafish",
+                                    "volume":  "325",
+                                    "issue":  "2",
+                                    "pages":  "363-73",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "0372762",
+                                    "issn":  "0012-1606",
+                                    "essn":  "1095-564X",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Research Support, N.I.H., Extramural",
+                                                    "Research Support, Non-U.S. Gov\u0027t"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "256",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "19013446"
+                                                       },
+                                                       {
+                                                           "idtype":  "mid",
+                                                           "idtypen":  8,
+                                                           "value":  "NIHMS168904"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmc",
+                                                           "idtypen":  8,
+                                                           "value":  "PMC2991145"
+                                                       },
+                                                       {
+                                                           "idtype":  "pmcid",
+                                                           "idtypen":  5,
+                                                           "value":  "pmc-id: PMC2991145;manuscript-id: NIHMS168904;"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.1016/j.ydbio.2008.10.030"
+                                                       },
+                                                       {
+                                                           "idtype":  "pii",
+                                                           "idtypen":  4,
+                                                           "value":  "S0012-1606(08)01294-3"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "received",
+                                                        "date":  "2008/09/16 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "revised",
+                                                        "date":  "2008/10/16 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "accepted",
+                                                        "date":  "2008/10/21 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2008/11/18 09:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2009/03/11 09:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2008/11/18 09:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pmc-release",
+                                                        "date":  "2010/11/24 00:00"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  66,
+                                    "fulljournalname":  "Developmental biology",
+                                    "elocationid":  "doi: 10.1016/j.ydbio.2008.10.030",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2009/01/15 00:00",
+                                    "sortfirstauthor":  "Sittaramane V",
+                                    "vernaculartitle":  ""
+                                },
+                   "17525225":  {
+                                    "uid":  "17525225",
+                                    "pubdate":  "2007 Jun",
+                                    "epubdate":  "",
+                                    "source":  "Invest Ophthalmol Vis Sci",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Biehlmaier O",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Makhankov Y",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Neuhauss SC",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Neuhauss SC",
+                                    "title":  "Impaired retinal differentiation and maintenance in zebrafish laminin mutants.",
+                                    "sorttitle":  "impaired retinal differentiation and maintenance in zebrafish laminin mutants",
+                                    "volume":  "48",
+                                    "issue":  "6",
+                                    "pages":  "2887-94",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "7703701",
+                                    "issn":  "0146-0404",
+                                    "essn":  "",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Research Support, Non-U.S. Gov\u0027t"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "4",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "17525225"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.1167/iovs.06-1212"
+                                                       },
+                                                       {
+                                                           "idtype":  "pii",
+                                                           "idtypen":  4,
+                                                           "value":  "48/6/2887"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2007/05/26 09:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2007/07/03 09:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2007/05/26 09:00"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  "",
+                                    "fulljournalname":  "Investigative ophthalmology \u0026 visual science",
+                                    "elocationid":  "",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2007/06/01 00:00",
+                                    "sortfirstauthor":  "Biehlmaier O",
+                                    "vernaculartitle":  ""
+                                },
+                   "16973147":  {
+                                    "uid":  "16973147",
+                                    "pubdate":  "2006 Nov 1",
+                                    "epubdate":  "2006 Jul 12",
+                                    "source":  "Dev Biol",
+                                    "authors":  [
+                                                    {
+                                                        "name":  "Semina EV",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Bosenko DV",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Zinkevich NC",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Soules KA",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Hyde DR",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Vihtelic TS",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Willer GB",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Gregg RG",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    },
+                                                    {
+                                                        "name":  "Link BA",
+                                                        "authtype":  "Author",
+                                                        "clusterid":  ""
+                                                    }
+                                                ],
+                                    "lastauthor":  "Link BA",
+                                    "title":  "Mutations in laminin alpha 1 result in complex, lens-independent ocular phenotypes in zebrafish.",
+                                    "sorttitle":  "mutations in laminin alpha 1 result in complex lens independent ocular phenotypes in zebrafish",
+                                    "volume":  "299",
+                                    "issue":  "1",
+                                    "pages":  "63-77",
+                                    "lang":  [
+                                                 "eng"
+                                             ],
+                                    "nlmuniqueid":  "0372762",
+                                    "issn":  "0012-1606",
+                                    "essn":  "",
+                                    "pubtype":  [
+                                                    "Journal Article",
+                                                    "Research Support, N.I.H., Extramural"
+                                                ],
+                                    "recordstatus":  "PubMed - indexed for MEDLINE",
+                                    "pubstatus":  "256",
+                                    "articleids":  [
+                                                       {
+                                                           "idtype":  "pubmed",
+                                                           "idtypen":  1,
+                                                           "value":  "16973147"
+                                                       },
+                                                       {
+                                                           "idtype":  "doi",
+                                                           "idtypen":  3,
+                                                           "value":  "10.1016/j.ydbio.2006.07.005"
+                                                       },
+                                                       {
+                                                           "idtype":  "pii",
+                                                           "idtypen":  4,
+                                                           "value":  "S0012-1606(06)00986-9"
+                                                       }
+                                                   ],
+                                    "history":  [
+                                                    {
+                                                        "pubstatus":  "received",
+                                                        "date":  "2006/06/06 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "revised",
+                                                        "date":  "2006/07/04 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "accepted",
+                                                        "date":  "2006/07/07 00:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "pubmed",
+                                                        "date":  "2006/09/16 09:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "medline",
+                                                        "date":  "2006/12/09 09:00"
+                                                    },
+                                                    {
+                                                        "pubstatus":  "entrez",
+                                                        "date":  "2006/09/16 09:00"
+                                                    }
+                                                ],
+                                    "references":  [
+
+                                                   ],
+                                    "attributes":  [
+                                                       "Has Abstract"
+                                                   ],
+                                    "pmcrefcount":  "",
+                                    "fulljournalname":  "Developmental biology",
+                                    "elocationid":  "",
+                                    "doctype":  "citation",
+                                    "srccontriblist":  [
+
+                                                       ],
+                                    "booktitle":  "",
+                                    "medium":  "",
+                                    "edition":  "",
+                                    "publisherlocation":  "",
+                                    "publishername":  "",
+                                    "srcdate":  "",
+                                    "reportnumber":  "",
+                                    "availablefromurl":  "",
+                                    "locationlabel":  "",
+                                    "doccontriblist":  [
+
+                                                       ],
+                                    "docdate":  "",
+                                    "bookname":  "",
+                                    "chapter":  "",
+                                    "sortpubdate":  "2006/11/01 00:00",
+                                    "sortfirstauthor":  "Semina EV",
+                                    "vernaculartitle":  ""
+                                }
+               }
+}
