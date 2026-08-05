@@ -5,6 +5,7 @@ import {
   parseAllianceGeneData,
 } from "../api/allianceGenome";
 import { ActionTypes } from "./queriesReducer";
+import { runReferencesQuery } from "./runReferencesQuery";
 
 // The async counterpart to queriesReducer.js: the reducer only knows how to
 // apply an action to state synchronously, so something else has to actually
@@ -43,4 +44,12 @@ export async function runGeneQuery(dispatch, geneQuery) {
   }
 
   dispatch({ type: ActionTypes.SET_QUERY_SPECIES, queryId: id, species: validSpecies });
+
+  // Reference counts show on every card's collapsed header, so fetch them
+  // eagerly rather than waiting for the user to open a card's References
+  // face. Sequenced (not Promise.all) since PubMed's unauthenticated 3 req/sec
+  // cap makes simultaneous per-species bursts flaky (see api/pubmed.js).
+  for (const s of validSpecies) {
+    await runReferencesQuery(dispatch, id, s.curie, s.gene);
+  }
 }

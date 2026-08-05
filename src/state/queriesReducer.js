@@ -51,6 +51,8 @@ export const ActionTypes = {
   SET_SPECIES_REFERENCES_LOADING: "SET_SPECIES_REFERENCES_LOADING",
   SET_SPECIES_REFERENCES: "SET_SPECIES_REFERENCES",
   SET_SPECIES_REFERENCES_ERROR: "SET_SPECIES_REFERENCES_ERROR",
+  TOGGLE_SPECIES_EXPANDED: "TOGGLE_SPECIES_EXPANDED",
+  SET_ALL_SPECIES_EXPANDED: "SET_ALL_SPECIES_EXPANDED",
 };
 
 // Small helper used by several branches below: rebuild the `queries` array with
@@ -106,7 +108,9 @@ export function queriesReducer(state, action) {
             ...s,
             viewMode: "data",             // every card starts showing the Data face
             references: null,
-            referencesStatus: "idle",     // references are fetched lazily — see below
+            referencesStatus: "idle",     // filled in eagerly by runGeneQuery — see runReferencesQuery.js
+            referencesCount: null,        // PubMed's true total match count, shown on the collapsed header
+            expanded: false,              // cards start collapsed to a quick-scan summary
           })),
         })),
       };
@@ -143,6 +147,33 @@ export function queriesReducer(state, action) {
       };
     }
 
+    // Flip one card between its collapsed (quick-scan summary) and expanded
+    // (full data/references) states.
+    case ActionTypes.TOGGLE_SPECIES_EXPANDED: {
+      return {
+        ...state,
+        queries: updateQueryById(state.queries, action.queryId, query => ({
+          ...query,
+          species: updateSpeciesByCurie(query.species, action.curie, s => ({
+            ...s,
+            expanded: !s.expanded,
+          })),
+        })),
+      };
+    }
+
+    // "Expand All" / "Collapse All": set every card in one query to the same
+    // expanded state at once, rather than clicking through them one at a time.
+    case ActionTypes.SET_ALL_SPECIES_EXPANDED: {
+      return {
+        ...state,
+        queries: updateQueryById(state.queries, action.queryId, query => ({
+          ...query,
+          species: query.species.map(s => ({ ...s, expanded: action.expanded })),
+        })),
+      };
+    }
+
     // References are fetched on demand (the first time a card is flipped to the
     // References face), not upfront with the gene data — these three actions mark
     // that fetch's progress the same way SET_QUERY_SPECIES/SET_QUERY_ERROR do for
@@ -169,6 +200,7 @@ export function queriesReducer(state, action) {
             ...s,
             referencesStatus: "ready",
             references: action.references,
+            referencesCount: action.totalCount,
           })),
         })),
       };
