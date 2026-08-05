@@ -43,7 +43,7 @@ function SpeciesCard({ queryId, species, dispatch }) {
 
   return (
     <Card bg="success" text="white" className="mb-3">
-      <Card.Body>
+      <Card.Body className="text-start">
         <div className="d-flex justify-content-between align-items-center gap-3">
           <Card.Subtitle className="mb-0">
             {gene.symbol} - {gene.speciesName} ({formatReferencesLabel(referencesStatus, referencesCount)})
@@ -54,9 +54,10 @@ function SpeciesCard({ queryId, species, dispatch }) {
         </div>
 
         <Collapse in={expanded}>
-          <div>
-            <div className="d-flex justify-content-between align-items-start mt-3 gap-3">
-              <Card.Text className="mb-1">Name: {gene.fullName}</Card.Text>
+          <div className="mt-3">
+            <Card.Text className="fst-italic mb-2">{gene.fullName}</Card.Text>
+
+            <div className="d-flex justify-content-end mb-2">
               <ButtonGroup size="sm">
                 <Button
                   variant="dark"
